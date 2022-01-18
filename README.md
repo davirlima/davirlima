@@ -14,7 +14,7 @@
 
 <div>
   <li> 
-    🖥️ Faço o curso Ignite, da Rocketseat (ReactJS, React Native, Node.js e Elixir).
+    🖥️ Faço o curso Ignite, da <b>Rocketseat</b> (ReactJS, React Native, Node.js e Elixir).
   </li>
    <p>
      <i>Previsão de conclusão em dez/2022</i>;
