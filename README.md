@@ -46,7 +46,7 @@
   <h3>
     Contate-me
   </h3>
-  <a href="https://www.linkedin.com/in/davirodriguesdelima/" target="_blank">
+  <a href="https://www.linkedin.com/in/davirodriguesdelima/"  target="_blank">
     <img height="40px" alt ="Davi-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:davirlima04@gmail.com" target="_blank">
