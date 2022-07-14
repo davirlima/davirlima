@@ -15,7 +15,6 @@
    <p>
      <i>Previsão de conclusão em dez/2022</i>
   </p>
-  <img height="50px" alt="Davi-Rocketseat" src="https://raw.githubusercontent.com/Rocketseat/awesome/master/assets/logo_rocketseat.png" target="_blank">
 </div>
 
 ##
