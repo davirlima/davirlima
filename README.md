@@ -4,17 +4,13 @@
 
 <div>
   <li>
-    📒 Atualmente sou estudante no Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul (<b>IFMS</b>), Campus Campo Grande. Além do Ensino Médio, também faço         <b>Curso Técnico Integrado em Informática</b> na instituição.
+    🧑‍💻 Técnico em Informática
   </li>
-  <p
-     ><i>Previsão de conclusão em jun/2022</i>;
-  </p>
-  <img height="50px" alt="Davi-IFMS" src="https://suap.ifms.edu.br/static/bse/img/logo_ifms.png" target="_blank">
 </div>
 
 <div>
   <li> 
-    🖥️ Faço o curso Ignite, da <b>Rocketseat</b> (ReactJS, React Native, Node.js e Elixir).
+    🖥️ Cursando o Ignite, da <b>Rocketseat</b> (ReactJS, React Native, Node.js e Elixir).
   </li>
    <p>
      <i>Previsão de conclusão em dez/2022</i>;
@@ -22,15 +18,11 @@
   <img height="50px" alt="Davi-Rocketseat" src="https://raw.githubusercontent.com/Rocketseat/awesome/master/assets/logo_rocketseat.png" target="_blank">
 </div>
 
-<div>
-  <li> 💰 Trabalho como Designer Gráfico freelancer.</li>
-</div>
-
 ##
 
 <div style="display inline-block" align ="center">
   <h3>
-    Linguagens que estudo e tenho maior conhecimento
+    Interesses
   </h3>
   <img height="40px" alt ="Davi-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank">
   <img height="40px" alt ="Davi-PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" target="_blank">
