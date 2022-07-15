@@ -23,12 +23,12 @@
   <h3>
     Interesses
   </h3>
-  <img height="40px" alt ="Davi-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank">
-  <img height="40px" alt ="Davi-PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" target="_blank">
   <img height="40px" alt ="Davi-HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank">
   <img height="40px" alt ="Davi-CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank">
   <img height="40px" alt ="Davi-Java Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank">
   <img height="40px" alt ="Davi-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" target="_blank">
+  <img height="40px" alt ="Davi-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank">
+  <img height="40px" alt ="Davi-PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" target="_blank">
 </div>
 
 ##
