@@ -74,8 +74,8 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davirlima&show_icons=true&locale=pt-br&layout=compact&theme=dark&icon_color=FB8C00"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davirlima&theme=dark&hide_border=false&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davirlima&show_icons=true&locale=pt-br&layout=compact&theme=dark&icon_color=FB8C00"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=davirlima&theme=dark&hide_border=false&locale=pt-br"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davirlima/davirlima/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davirlima/davirlima/output/github-contribution-grid-snake.svg">
