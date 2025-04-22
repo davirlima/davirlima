@@ -17,6 +17,8 @@
     </ul>
   </li>
   
+  <br/>
+  
   <li>
     💼 <strong>Experiências:</strong>
     <ul>
@@ -25,6 +27,8 @@
       <li><strong>Web Designer Freelancer</strong> — WordPress e Elementor</li>
     </ul>
   </li>
+    
+  <br/>
   
   <li>
     🏆 <strong>Conquistas:</strong>
@@ -34,32 +38,35 @@
       <li>📄 Artigo publicado: <em>O Uso da Gamificação no Processo de Ensino-Aprendizagem</em> — <a href="https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/23708" target="_blank">Leia aqui</a></li>
     </ul>
   </li>
-
+  
+  <br/>
+  
   <li>
     🌐 <strong>Idiomas:</strong>
     <ul>
       <li>Português (nativo)</li>
-      <li>Inglês (intermediário/avançado)</li>
+      <li>Inglês (intermediário)</li>
     </ul>
   </li>
 </ul>
 
 <hr>
 
-<h3>🛠️ Habilidades</h3>
+<h3>🛠️ Minhas skills</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"><br><br>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge"><br><br>
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge">
 </p>
 
 <hr>
@@ -67,7 +74,8 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davirlima&theme=dark&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davirlima&show_icons=true&locale=pt-br&layout=compact&theme=dark&icon_color=FB8C00"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davirlima&theme=dark&hide_border=false&locale=pt-br"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davirlima/davirlima/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davirlima/davirlima/output/github-contribution-grid-snake.svg">
@@ -80,7 +88,7 @@
 
 <h3>📫 Conecte-se Comigo</h3>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/davirlima/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
