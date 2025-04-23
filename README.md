@@ -57,7 +57,6 @@
 - **Descrição:** Sistema de modernização do atendimento emergencial do SAMU de Campo Grande - MS, desde o registro da chamada até o encerramento da ocorrência.  
 - **Tech:** React.js, Laravel, Flutter  
 - **Status:** Em pré-incubação após vitória no SENAC Decola Hackathon 2024  
-- **Repositório:** [github.com/davirlima/ambulink](https://github.com/davirlima/ambulink)
 
 ### Portfolio Behance
 - **Descrição:** Coleção de projetos de web design focados em identidade visual e experiência do usuário.  
