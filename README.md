@@ -10,15 +10,11 @@
 
 - 🎓 **Formação**
   - Técnico em Informática — IFMS (2022)
-  - Bacharelado em Sistemas de Informação — UFMS (3º semestre, 2024 – presente)
+  - Bacharelado em Sistemas de Informação — UFMS (4º semestre, 2024 – presente)
 
 - 💼 **Experiência**
-  - **Dev Front-end** — Ambulink (Fev/2025 – presente)
-  - **Jovem Aprendiz** — Infraestrutura de TI na Digix (Abr/2024 – presente)
-  - **Web Designer Freelancer** — WordPress & Elementor (Dez/2022 – presente)
-  - **Arte-finalista** — Jornal O Estado de MS (Fev/2024)
-  - **Seção de Informática** — Exército Brasileiro (Mar/2023 – Jan/2024)
-  - **Estagiário de TI** — Triagem Consultoria (Abr/2022 – Jun/2022)
+  - **Dev Front-end** — Projeto Ambulink (Fev/2025 – presente)
+  - **Web Designer** — Click Digital (Ago/2025 – presente)
 
 ---
 
