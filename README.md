@@ -2,18 +2,18 @@
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá, me chamo Davi Lima!
 </h1>
 
-<p align="center"><b>⚡ Desenvolvedor Front-end | Web Designer | Apaixonado por Tecnologia e Inovação</b></p>
+<p align="center"><b>⚡ Desenvolvedor Web | Web Designer | Apaixonado por Tecnologia e Inovação</b></p>
 
 ---
 
 ## 🚀 Sobre Mim
 
 - 🎓 **Formação**
-  - Técnico em Informática — IFMS (2022)
-  - Bacharelado em Sistemas de Informação — UFMS (4º semestre, 2024 – presente)
+  - **Técnico em Informática** — IFMS (2022)
+  - **Bacharelado em Sistemas de Informação** — UFMS (5º semestre, 2024 – presente)
 
 - 💼 **Experiência**
-  - **Dev Front-end** — Projeto Ambulink (Fev/2025 – presente)
+  - **Dev Full Stack / Tech Lead** — Projeto Ambulink (Fev/2025 – presente)
   - **Web Designer** — Click Digital (Ago/2025 – presente)
 
 ---
@@ -50,21 +50,21 @@
 ## 🚧 Projetos em Destaque
 
 ### Ambulink
-- **Descrição:** Sistema de modernização do atendimento emergencial do SAMU de Campo Grande - MS, desde o registro da chamada até o encerramento da ocorrência.  
-- **Tech:** React.js, Laravel, Flutter  
-- **Status:** Em pré-incubação após vitória no SENAC Decola Hackathon 2024  
+- Sistema de Apoio ao Atendimento de Ocorrências do SAMU de Campo Grande/MS, desde a chamada ao 192 até o encerramento da ocorrência.
+- **Techs:** React JS, Laravel, React Native, Docker, Nginx.  
+- **Acesse:** [github.com/ambulink-ms](https://www.github.com/).  
 
 ### Portfolio Behance
-- **Descrição:** Coleção de projetos de web design focados em identidade visual e experiência do usuário.  
-- **Tech:** WordPress, Elementor, Figma  
-- **Acesse:** [behance.net/davirlima](https://www.behance.net/davirlima)
+- **Descrição:** Coleção de projetos de web design focados em identidade visual, experiência do usuário e conversão.  
+- **Techs:** WordPress, Elementor, HTML, CSS, Figma.  
+- **Acesse:** [behance.net/davirlima](https://www.behance.net/davirlima).
 
 ---
 
 ## 🏆 Conquistas
 
-- 🏅 **Campeão** do SENAC Decola Hackathon 2024 — Projeto Ambulink premiado  
-- 📄 **Artigo publicado:** “O Uso da Gamificação no Processo de Ensino-Aprendizagem” — SBC Open Lib  
+- 🏅 **Campeão** do SENAC Decola Hackathon 2024 — Projeto Ambulink premiado. [Acesse aqui](https://www.progresso.com.br/tecnologia/equipe-vencedora-do-senac-decola-hackathon-desenvolve-novo-sistema/436682/).
+- 📄 **Artigo publicado:** “O Uso da Gamificação no Processo de Ensino-Aprendizagem” — SBC Open Lib. [Acesse aqui](https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/23708).
 
 ---
 
@@ -87,9 +87,3 @@
   <a href="mailto:davi.rlima04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>  
   <a href="https://www.behance.net/davirlima" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge" alt="Behance"/></a>
 </p>
-
----
-
-🔭 Atualmente trabalhando no **Ambulink**  
-🌱 Aberto a oportunidades como Front-end Júnior  
-📥 Vamos conversar?
