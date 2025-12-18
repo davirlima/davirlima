@@ -52,7 +52,7 @@
 ### Ambulink
 - Sistema de Apoio ao Atendimento de Ocorrências do SAMU de Campo Grande/MS, desde a chamada ao 192 até o encerramento da ocorrência.
 - **Techs:** React JS, Laravel, React Native, Docker, Nginx.  
-- **Acesse:** [github.com/ambulink-ms](https://www.github.com/).  
+- **Acesse:** [github.com/ambulink-ms](https://www.github.com/ambulink-ms).  
 
 ### Portfolio Behance
 - **Descrição:** Coleção de projetos de web design focados em identidade visual, experiência do usuário e conversão.  
