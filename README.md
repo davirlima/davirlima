@@ -13,7 +13,7 @@
   - **Bacharelado em Sistemas de Informação** — UFMS (5º semestre, 2024 – presente)
 
 - 💼 **Experiência**
-  - **Dev Full Stack / Tech Lead** — Projeto Ambulink (Fev/2025 – presente)
+  - **Dev Full Stack / Tech Lead** — Projeto Ambulink (Fev/2025 – Ago/2026)
   - **Web Designer** — Click Digital (Ago/2025 – presente)
 
 ---
